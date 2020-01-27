@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SymCacheHttpServer", "SymCacheHttpServer\SymCacheHttpServer.csproj", "{8B569138-D0CB-4703-A425-21697DF37AB2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F63651B4-0891-4AD7-B3B1-5DA9B7D1E406}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B569138-D0CB-4703-A425-21697DF37AB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B569138-D0CB-4703-A425-21697DF37AB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B569138-D0CB-4703-A425-21697DF37AB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B569138-D0CB-4703-A425-21697DF37AB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6432D48B-F6D9-4197-A2B6-10B3F9E9A758}
+	EndGlobalSection
+EndGlobal
