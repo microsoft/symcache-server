@@ -93,7 +93,7 @@ The pdbAge segment can be ommitted if it is 1.
 
 If the server has an exact match for that SymCache file already available, it replies with a 200 OK response, providing
 the content directly in the response body, or 302 response, redirecting to another URL that will provide the content.
-All successfull responses must include a Content-Type header with application/vnd.ms-symcache as the media type.
+All successful responses must include a Content-Type header with application/vnd.ms-symcache as the media type.
 
 If the server knows it does not have a match for the requested SymCache file, it replies with a 404 Not Found response.
 
